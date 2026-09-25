@@ -1,0 +1,32 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Local datasets
+data/
+datasets/
+*.csv
+*.parquet
+*.feather
+*.jsonl
+
+# Generated outputs
+output/*
+!output/.gitkeep
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
