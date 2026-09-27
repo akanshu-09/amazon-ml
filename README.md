@@ -15,6 +15,3 @@ Initial project scaffold for the Business Entity Resolution task.
 - `main.py`
 - `requirements.txt`
 
-## Notes
-
-The ML pipeline is intentionally not implemented yet.
